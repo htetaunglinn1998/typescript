@@ -1,6 +1,7 @@
-const people: {name: string; age: number;} = {
+const people = {
     name : "Htet Aung Linn",
-    age:24
+    age:24,
+    hobbies: ['Sports', 'Cooking']
 }
 
 console.log(people.name)
